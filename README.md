@@ -1,16 +1,7 @@
-### Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo!
 
+![Gif do cachorro mexendo no PC](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U5emd3MTNocDU0OG9xd3I2ZHoyejNmbmdibWk0c3M4djZjZ25rOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5SKwQMGTR1umLrKC7N/giphy.gif)
 
-
-*italico* ou _italico_
-
-**Negrito** ou __negrito__
-
-___Negrito e Italico___
-
-- Lista 1
-- Lista 2
- - Sublista
 
 
 
